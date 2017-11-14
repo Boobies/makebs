@@ -20,6 +20,10 @@ Version control for *MakeBS* is handled with [Git](http://git-scm.com/). The fol
 
     git clone https://github.com/Boobies/makebs.git
 
+For projects that are versioned with Git, it is recommended that *MakeBS* be imported as a submodule, as such:
+
+    git submodule add https://github.com/Boobies/makebs
+
 Alternatively, [GitHub](https://github.com/) provides [an archive of the master branch](https://github.com/Boobies/makebs/archive/master.zip).
 
 Usage
