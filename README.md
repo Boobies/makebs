@@ -24,6 +24,12 @@ For projects that are versioned with Git, it is recommended that *MakeBS* be imp
 
     git submodule add https://github.com/Boobies/makebs
 
+and to include the following lines in the project's `.gitignore` file:
+
+    /lib
+    /man
+    /obj
+
 Alternatively, [GitHub](https://github.com/) provides [an archive of the master branch](https://github.com/Boobies/makebs/archive/master.zip).
 
 Usage
